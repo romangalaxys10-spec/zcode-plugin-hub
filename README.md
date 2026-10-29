@@ -45,7 +45,7 @@ New here? [Try ZCode free](https://zcode.z.ai/invite/ALWM9JUA) or grab a
 
 | Plugin | What it does |
 |--------|--------------|
-| chatgpt-headless (install from the official ZCode marketplace) | Consults ChatGPT on your behalf from inside ZCode through browser overlay and control, as a legitimate second-opinion and review channel. It is supported automation of your own ChatGPT account, not a workaround; use it for cross-checks on designs, code review and decisions |
+| [chatgpt-headless](https://github.com/romangalaxys10-spec/zcode-chatgpt-headless) | Consults ChatGPT on your behalf from inside ZCode: second opinions, multi-model panels and silent auto-review of big edits, through headless calls to the official Codex backend using your own ChatGPT plan's tokens. Supported automation of your own account, not a workaround; also on the official ZCode marketplace |
 
 ## Install any of these in 3 steps
 
