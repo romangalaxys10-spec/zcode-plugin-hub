@@ -18,26 +18,44 @@ New here? [Try ZCode free](https://zcode.z.ai/invite/ALWM9JUA) or grab a
 
 | Plugin | What it does |
 |--------|--------------|
+| [token-alarm](https://github.com/romangalaxys10-spec/zcode-token-alarm) | Never miss a time-limited free-token window: window state machine, phone alert, burn-list for the open window |
+| [night-shift](https://github.com/romangalaxys10-spec/zcode-night-shift) | Overnight batch runner: safe ops run under your policy, risky ops park with a reason, morning digest |
+| [plan-forecaster](https://github.com/romangalaxys10-spec/zcode-plan-forecaster) | Reset-aware quota forecasting: will a task of N tokens fit before your plan resets |
 | [last-mile](https://github.com/romangalaxys10-spec/zcode-last-mile) | Kills the "last 20%": scans an almost-finished project for unfinished edges and closes them, one commit per item |
 | [context-forge](https://github.com/romangalaxys10-spec/zcode-context-forge) | Session hygiene for long builds: handoff briefs, codebase-derived conventions, refreshable state |
 | [beginner-pilot](https://github.com/romangalaxys10-spec/zcode-beginner-pilot) | Guided mode for beginners: the agent narrates every step in plain language and builds a re-readable notebook |
 | [skill-curator](https://github.com/romangalaxys10-spec/zcode-skill-curator) | Discover, search, audit, dedupe, install and remove skills and plugins from a local catalog |
+| [skill-example-gen](https://github.com/romangalaxys10-spec/zcode-skill-example-gen) | Turns any SKILL.md into worked examples and stdlib smoke tests, appended without touching the original |
 | [phone-bridge](https://github.com/romangalaxys10-spec/zcode-phone-bridge) | Task completion pings to your phone over your own Telegram bot; outbound-only, no inbound control channel |
 | [launchpad](https://github.com/romangalaxys10-spec/zcode-launchpad) | Turns recent commits into launch content: changelog, blog draft, X thread, LinkedIn, Reddit, Product Hunt copy |
+| [smm-pilot](https://github.com/romangalaxys10-spec/zcode-smm-pilot) | Marketing/SMM automation: brand intake, 2-week calendar, per-platform drafts in your voice; nothing posts without explicit human approval |
 
 ## Vibe coding
 
 | Plugin | What it does |
 |--------|--------------|
 | [mcp-doctor](https://github.com/romangalaxys10-spec/zcode-mcp-doctor) | Diagnoses and fixes MCP configs across clients; probes every server with a real handshake |
+| [config-sync](https://github.com/romangalaxys10-spec/zcode-config-sync) | One canonical provider/MCP config rendered into every harness format, dry-run diffs, env var names only |
+| [free-route](https://github.com/romangalaxys10-spec/zcode-free-route) | Latency scoreboard for model endpoints: probes, EWMA history, ranked table, failover notes |
+| [swarm](https://github.com/romangalaxys10-spec/zcode-swarm) | Parallel fan-out refactoring: one worktree and one agent per slice, only test-verified branches merge |
 | [usage-dashboard](https://github.com/romangalaxys10-spec/zcode-usage-dashboard) | Token and cost dashboard from ZCode's own rollout logs, per day, session and model |
 | [ui-polish](https://github.com/romangalaxys10-spec/zcode-ui-polish) | Design-mirror pass that fixes bad AI frontend output against a real design system |
 | [pixel-review](https://github.com/romangalaxys10-spec/zcode-pixel-review) | Visual regression gate: pixel-diffs before/after screenshots and blocks broken "done" claims |
+| [roast-my-app](https://github.com/romangalaxys10-spec/zcode-roast-my-app) | Brutal but fair 1-5 app review across six dimensions with a shareable scorecard |
 | [root-cause](https://github.com/romangalaxys10-spec/zcode-root-cause) | Debug-loop breaker: falsifiable repro, bisection, hypothesis-tested root cause, max 3 fix attempts |
 | [ship-audit](https://github.com/romangalaxys10-spec/zcode-ship-audit) | Pre-launch gate: secrets, env completeness, debug flags, leaks; FAIL/WARN/PASS report |
+| [privacy-scan](https://github.com/romangalaxys10-spec/zcode-privacy-scan) | Pre-send gate for secrets and PII in payloads, with redaction suggestions and a self-test mode |
 | [dep-pin](https://github.com/romangalaxys10-spec/zcode-dep-pin) | Dependency honesty gate: verifies packages exist on npm/PyPI and versions are real before imports land |
 | [git-story](https://github.com/romangalaxys10-spec/zcode-git-story) | Conventional commits with real intent, PR descriptions, weekly "what I built" digest |
 | [prompt-lab](https://github.com/romangalaxys10-spec/zcode-prompt-lab) | A/B harness for prompts and skills: fixtures, fresh subagents per variant, rubric-scored verdict |
+| [plugin-update-watch](https://github.com/romangalaxys10-spec/zcode-plugin-update-watch) | Safe plugin updater: upstream diffs before applying, validation after, rollback refs on failure |
+
+## Research
+
+| Plugin | What it does |
+|--------|--------------|
+| [deep-research](https://github.com/romangalaxys10-spec/zcode-deep-research) | Multi-source research automation: sub-question fan-out, triangulated contradictions, verdict-first cited brief |
+
 
 ## More from us
 
