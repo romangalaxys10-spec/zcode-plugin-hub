@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.3.1 - 2026-11-02
+
+- Removed chatgpt-headless and zcode-discord-research-agent entries from the index (private plugins).
+
 ## 0.3.0 - 2026-11-02
 
 - Added 5 plugins from the Mika study: mika-bridge, task-to-skill, site-playbooks, prefs-memory, live-desk. night-shift upgraded to 0.2.0 with ask-mode.

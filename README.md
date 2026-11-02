@@ -68,13 +68,6 @@ New here? [Try ZCode free](https://zcode.z.ai/invite/ALWM9JUA) or grab a
 | Plugin | What it does |
 |--------|--------------|
 | [memecoin-kill-relay](https://github.com/romangalaxys10-spec/memecoin-kill-relay) | Kill-first memecoin screening relay, five stages, one veto kills. Based on an X.com post, not verified or personally tested |
-| [zcode-discord-research-agent](https://github.com/romangalaxys10-spec/zcode-discord-research-agent) | Research Discord servers with your own logged-in Firefox session; reports plus approval-gated replies |
-
-## Recommended official plugin
-
-| Plugin | What it does |
-|--------|--------------|
-| [chatgpt-headless](https://github.com/romangalaxys10-spec/zcode-chatgpt-headless) | Consults ChatGPT on your behalf from inside ZCode: second opinions, multi-model panels and silent auto-review of big edits, through headless calls to the official Codex backend using your own ChatGPT plan's tokens. Supported automation of your own account, not a workaround; also on the official ZCode marketplace |
 
 ## Install any of these in 3 steps
 
