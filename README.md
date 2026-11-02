@@ -19,6 +19,11 @@ New here? [Try ZCode free](https://zcode.z.ai/invite/ALWM9JUA) or grab a
 | Plugin | What it does |
 |--------|--------------|
 | [token-alarm](https://github.com/romangalaxys10-spec/zcode-token-alarm) | Never miss a time-limited free-token window: window state machine, phone alert, burn-list for the open window |
+| [prefs-memory](https://github.com/romangalaxys10-spec/zcode-prefs-memory) | Persistent user preferences injected into every session automatically via a SessionStart hook |
+| [live-desk](https://github.com/romangalaxys10-spec/zcode-live-desk) | Read-only local web desk: watch live sessions, conversations and today's token burn (Mika-style task desk) |
+| [task-to-skill](https://github.com/romangalaxys10-spec/zcode-task-to-skill) | Turns finished tasks into parametrized skills: capture what worked, gotchas and parameters, evidence-verified |
+| [site-playbooks](https://github.com/romangalaxys10-spec/zcode-site-playbooks) | Per-site playbooks for browser agents: quirks, login flows, anti-bot behavior; lookup, lint and community additions |
+| [mika-bridge](https://github.com/romangalaxys10-spec/zcode-mika-bridge) | Hand tasks to Mika on your Android phone from ZCode over adb or LAN; wraps Mika's official computer-access CLI (Apache-2.0) |
 | [night-shift](https://github.com/romangalaxys10-spec/zcode-night-shift) | Overnight batch runner: safe ops run under your policy, risky ops park with a reason, morning digest |
 | [plan-forecaster](https://github.com/romangalaxys10-spec/zcode-plan-forecaster) | Reset-aware quota forecasting: will a task of N tokens fit before your plan resets |
 | [last-mile](https://github.com/romangalaxys10-spec/zcode-last-mile) | Kills the "last 20%": scans an almost-finished project for unfinished edges and closes them, one commit per item |

@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.3.0 - 2026-11-02
+
+- Added 5 plugins from the Mika study: mika-bridge, task-to-skill, site-playbooks, prefs-memory, live-desk. night-shift upgraded to 0.2.0 with ask-mode.
+
 ## 0.1.0 - 2026-10-29
 
 - Initial release: index of 15 new plugins (productivity + vibe coding), memecoin-kill-relay, the discord-research agent, and chatgpt-headless.
