@@ -26,6 +26,7 @@ New here? [Try ZCode free](https://zcode.z.ai/invite/ALWM9JUA) or grab a
 | [beginner-pilot](https://github.com/romangalaxys10-spec/zcode-beginner-pilot) | Guided mode for beginners: the agent narrates every step in plain language and builds a re-readable notebook |
 | [skill-curator](https://github.com/romangalaxys10-spec/zcode-skill-curator) | Discover, search, audit, dedupe, install and remove skills and plugins from a local catalog |
 | [skill-example-gen](https://github.com/romangalaxys10-spec/zcode-skill-example-gen) | Turns any SKILL.md into worked examples and stdlib smoke tests, appended without touching the original |
+| [session-fork](https://github.com/romangalaxys10-spec/zcode-session-fork) | Fork any session at any turn into a new branch: ids remapped, automatic store backup, desktop-side implementation of zai-org/feedback#1313 |
 | [phone-bridge](https://github.com/romangalaxys10-spec/zcode-phone-bridge) | Task completion pings to your phone over your own Telegram bot; outbound-only, no inbound control channel |
 | [launchpad](https://github.com/romangalaxys10-spec/zcode-launchpad) | Turns recent commits into launch content: changelog, blog draft, X thread, LinkedIn, Reddit, Product Hunt copy |
 | [smm-pilot](https://github.com/romangalaxys10-spec/zcode-smm-pilot) | Marketing/SMM automation: brand intake, 2-week calendar, per-platform drafts in your voice; nothing posts without explicit human approval |
