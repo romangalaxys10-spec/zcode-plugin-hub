@@ -63,6 +63,12 @@ New here? [Try ZCode free](https://zcode.z.ai/invite/ALWM9JUA) or grab a
 | [deep-research](https://github.com/romangalaxys10-spec/zcode-deep-research) | Multi-source research automation: sub-question fan-out, triangulated contradictions, verdict-first cited brief |
 
 
+## Security & reverse engineering
+
+| Plugin | What it does |
+|--------|--------------|
+| [rea](https://github.com/romangalaxys10-spec/zcode-rea) | Reverse engineer anything with agents: REA's MCP (morluto/rea, MIT) in ZCode for binaries, JS/Electron apps, .NET, ELF/GPU objects and websites, evidence-first workflow, pinned dep, readiness gates |
+
 ## More from us
 
 | Plugin | What it does |

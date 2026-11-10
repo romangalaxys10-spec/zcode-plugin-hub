@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.3.2 - 2026-11-10
+
+- Added rea (reverse engineering via morluto/rea MCP) in a new Security & reverse engineering section.
+
 ## 0.3.1 - 2026-11-02
 
 - Removed chatgpt-headless and zcode-discord-research-agent entries from the index (private plugins).
